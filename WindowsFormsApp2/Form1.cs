@@ -20,7 +20,7 @@ namespace WindowsFormsApp2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            System.Console.WriteLine("1230");
+            Console.WriteLine("1230");
         }
     }
 }
