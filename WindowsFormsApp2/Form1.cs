@@ -15,7 +15,7 @@ namespace WindowsFormsApp2
         public Form1()
         {
             InitializeComponent();
-            
+            System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230"); System.Console.WriteLine("1230");
         }
 
         private void Form1_Load(object sender, EventArgs e)
